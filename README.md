@@ -42,6 +42,7 @@
 - [Overlay Fact Sheet (why widgets alone are not compliance)](https://overlayfactsheet.com/)
 - [ISO/IEC 27001 (information security management)](https://www.iso.org/standard/27001)
 - [ISO/IEC 42001 (AI management systems)](https://www.iso.org/standard/42001)
+- [EURO AI Register (free browser-only AI inventory and printable EU AI Act Art. 4 AI literacy record; data stays in the browser)](https://unadhi.com/register/)
 
 ## Interactive tools by the maintainer
 
